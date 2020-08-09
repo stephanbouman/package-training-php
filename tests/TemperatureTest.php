@@ -4,7 +4,6 @@ namespace Robbplo\UnitConversions\Tests;
 
 use PHPUnit\Framework\TestCase;
 use Robbplo\UnitConversions\Temperature;
-use Robbplo\UnitConversions\Weight;
 
 class TemperatureTest extends TestCase
 {
