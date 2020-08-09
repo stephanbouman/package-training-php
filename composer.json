@@ -2,16 +2,15 @@
     "name": "spatie/php-package",
     "description": "",
     "keywords": [
-        "spatie",
         "php-package"
     ],
-    "homepage": "https://github.com/spatie/php-package",
+    "homepage": "https://github.com/robbplo/package-training-php",
     "license": "MIT",
     "authors": [
         {
             "name": "Robbin Ploeger",
             "email": "robbin@smit.net",
-            "homepage": "https://spatie.be",
+            "homepage": "https://smit.net",
             "role": "Developer"
         }
     ],
@@ -25,12 +24,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Spatie\\PhpPackage\\": "src"
+            "Robbplo\\UnitConversions\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Spatie\\PhpPackage\\Tests\\": "tests"
+            "Robbplo\\UnitConversions\\Tests\\": "tests"
         }
     },
     "scripts": {
