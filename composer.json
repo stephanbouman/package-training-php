@@ -1,9 +1,6 @@
 {
-    "name": "spatie/php-package",
+    "name": "robbin/temperature-conversion",
     "description": "",
-    "keywords": [
-        "php-package"
-    ],
     "homepage": "https://github.com/robbplo/package-training-php",
     "license": "MIT",
     "authors": [
