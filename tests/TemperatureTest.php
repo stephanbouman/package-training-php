@@ -42,9 +42,9 @@ class TemperatureTest extends TestCase
     /** @test */
     public function it_converts_celsius_to_celcius()
     {
-        $celsius = Temperature::fromCelsius(200)->toCelsius();
+        $celsius = Temperature::fromCelsius(100)->toCelsius();
 
-        $this->assertEquals(200, $celsius);
+        $this->assertEquals(100, $celsius);
     }
 
     /** @test */
